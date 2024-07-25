@@ -1,7 +1,7 @@
 # Flyte
 Flyte implementation project
 
-# Set up Kubernetes Cluster 
+# 01. Set up Kubernetes Cluster 
 ## Set up Master Node
 Run Kubernetes/k8v1.27_master_setup.sh file in master node
 
