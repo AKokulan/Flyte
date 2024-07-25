@@ -1,5 +1,8 @@
 # Flyte
-Flyte implementation project
+Flyte is an open-source platform designed to simplify and streamline the development and execution of large-scale, concurrent, and distributed data and machine learning workflows.
+
+This repository provides instructions for setting up and using the Flyte application on Kubernetes.
+
 
 ## 01. Set up Kubernetes Cluster 
 ### Set up Master Node
