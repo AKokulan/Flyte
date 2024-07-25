@@ -18,4 +18,17 @@ kubeadm token create --print-join-command
 
 Run the generated join command in worker nodes
 
+## 02. Set up Flyte
+
+Run flyte_setup.sh file on master node
+
+Once the POD is up and running, port forward to visualize the Flyte dashboard.
+
+Refer to the official page for the installation
+https://docs.flyte.org/en/latest/deployment/deployment/cloud_simple.html
+
+## 03. Run the tasks and workflow
+
+Register the tasks and workflow and test
+
  
