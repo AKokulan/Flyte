@@ -29,6 +29,6 @@ https://docs.flyte.org/en/latest/deployment/deployment/cloud_simple.html
 
 ## 03. Run the tasks and workflow
 
-Register the tasks and workflow and test
+Register the tasks and workflow and test from examples folder.
 
  
